@@ -1,6 +1,7 @@
-# demystifying-ruby-ecosystem
+# Demystifying the Ruby package ecosystem
 
 ### Slides (Rails World 2023)
+https://github.com/jenshenny/demystifying-ruby-ecosystem/blob/main/RubyEcosystem-RailsWorld2023.pdf
 
 ### RubyGems and Bundler 
 Github repo:
@@ -18,7 +19,7 @@ https://www.youtube.com/watch?v=_9X2I_OrsAA
 
 ### OIDC for RubyGems
 RFC: https://github.com/rubygems/rfcs/pull/49
-Contact André at andre@rubycentral.org
+Contact André at andre@rubycentral.org if you are interested in adopting and providing feedback
 
 ### Webauthn for RubyGems
 https://blog.rubygems.org/2023/08/03/level-up-using-security-devices.html
