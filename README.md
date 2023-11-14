@@ -1,5 +1,8 @@
 # Demystifying the Ruby package ecosystem
 
+### Slides (RubyConf 2023)
+https://github.com/jenshenny/demystifying-ruby-ecosystem/blob/main/RubyEcosystem-JennyShen-RubyConf2023.pdf
+
 ### Slides (Rails World 2023)
 https://github.com/jenshenny/demystifying-ruby-ecosystem/blob/main/RubyEcosystem-RailsWorld2023.pdf
 
